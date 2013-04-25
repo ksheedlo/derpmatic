@@ -1,4 +1,6 @@
 # NPM files
 node_modules/
 
-
+# Compiled output. LESS compiles to .css, and JS to .min.js.
+*.css
+*.min.js
